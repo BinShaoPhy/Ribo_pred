@@ -50,3 +50,5 @@ Test parameters:
 ### Reference
 Espah Borujeni, A., Zhang, J., Doosthosseini, H. et al. Genetic circuit characterization by inferring RNA polymerase movement and ribosome usage. [Nat Commun 11, 5001 (2020).](https://www.nature.com/articles/s41467-020-18630-2)
 
+Tunney, R., McGlincy, N.J., Graham, M.E. et al. Accurate design of translational output by a neural network model of ribosome distribution. [Nat Struct Mol Biol 25, 577–582 (2018).](https://www.nature.com/articles/s41594-018-0080-2)
+
